@@ -1,0 +1,44 @@
+body {
+    background-color:black;
+}
+
+h1{
+    color:whitesmoke;
+    font-size:44px;
+    text-align: center;
+}
+
+h2{
+    color:whitesmoke;
+    font-size:22px;
+    text-align: center;
+}
+
+.wrapper{
+    text-align: center;
+}
+
+a{
+    text-align:center;
+    font-size: 32px;
+    display:block;
+    color: whitesmoke;
+}
+
+#myCanvas{
+    border:2px solid whitesmoke;
+    text-align: center;
+}
+
+#imageOutput{
+    text-align: center;
+}
+
+#fileElem{
+    border: 3px dashed whitesmoke;
+    border-radius: 40px;
+    width: 600px;
+    font-family: sans-serif;
+    margin: 25px auto;
+    padding: 100px;
+}
